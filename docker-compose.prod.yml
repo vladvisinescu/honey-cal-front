@@ -1,0 +1,9 @@
+version: "3.8"
+
+services:
+  app:
+    container_name: honey-cal-front-prod
+    image: honey-cal-front-prod
+    build:
+      context: .
+      target: production
