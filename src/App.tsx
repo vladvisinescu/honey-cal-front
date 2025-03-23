@@ -1,6 +1,6 @@
-import React from 'react';
-import logo from './logo.svg';
-import './App.css';
+import logo from './logo.svg'
+import './App.css'
+import React from 'react'
 
 const App: React.FC = () => {
   return (
@@ -16,11 +16,11 @@ const App: React.FC = () => {
           target="_blank"
           rel="noopener noreferrer"
         >
-          do something with react
+          do 2 3 4 5 something with react
         </a>
       </header>
     </div>
-  );
+  )
 }
 
-export default App;
+export default App
